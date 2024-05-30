@@ -1,0 +1,159 @@
+body{background-color: #4A4D5E;}
+.box{
+  display: flex;
+  justify-content: center;
+  line-height: 46px;
+margin: auto 0;
+
+
+
+}
+
+.box1{
+  background-color: #E4E6F2;
+  border-radius: 10px 0  0 10px;
+  padding: 30px;
+  height: 500px;
+  width: 400px;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.box2{
+  background-color: #f3f4f8;
+  border-radius: 0 10px  10px 0;
+  padding: 30px;
+  height: 500px;
+  width: 400px;
+
+}
+
+.box1 .intalics{
+  font-weight: 100px;
+
+  font-size: 50px;
+
+}
+
+.star{
+  height:20px
+}
+.starlife{
+  display: flex;
+  margin-top: 7px;
+  align-items: center;
+  gap:10px;
+  margin-bottom: 25px;
+}
+.section{
+  display: flex;
+  flex-direction: row;
+  gap:70px;
+  margin-bottom: 25px;
+}
+.color {
+  display: flex;
+  gap:9px;
+  text-align: center
+
+}
+.color1{
+  content: "";
+  background-color: #718CAA;
+  height: 40px;
+  width: 40px;
+  border-radius: 5px;
+}
+.color2{
+  content: "";
+  background-color: #4A4D5E;
+  width: 40px;
+  height: 40px;
+
+  border-radius: 5px;
+}
+.color3{
+  content: "";
+  background-color: #E586E2;
+  width: 40px;
+  border-radius: 5px;
+  height: 40px;
+}
+.color4{
+  content: "";
+  background-color: #E6B63A;
+  width: 40px;
+  border-radius: 5px;
+  height: 40px;
+}
+.color5{
+  content: "";
+  background-color: #5EA219;
+  width: 40px;
+  border-radius: 5px;
+  height: 40px;
+}
+.section2{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap:77px}
+
+  .dollar{
+    font-size: 35px;
+    font-weight: bold;
+  }
+  .btn0{
+    background: #4A4D5E;
+   
+     border-radius: 10px;
+     width:60%;
+    
+   }
+  .buttonplate{
+    margin-top: 30px;
+    display: flex;
+    gap: 40px;
+    /* align-; */
+  }
+  .Love{
+    border: 2px solid#4A4D5E;
+    padding: 7px;
+    border-radius: 6px;
+  }
+  .cat{
+    height: 399px;
+  width: 300px;
+}
+.l{
+  content: "";
+  display: flex;
+  gap:219px;
+  text-align: center;
+  height: 25px;
+  width: 24px; 
+flex-direction: column;
+  background-color: #718CAA;
+  border-radius: 5px;
+  
+}
+.p{
+  background: none;
+  border:1px solid black;
+  text-align: center;
+  margin-left: 5px;
+}
+.v{
+  background: black;
+}
+
+.sizespace{
+  display: flex;
+  flex-direction: row;
+  gap:20px
+}
+
+.m{
+  justify-content: center;
+  
+}
